@@ -45,7 +45,7 @@ const projectData = [
         source: "https://github.com/collins-s/smd"
     },
     {
-        name: "Renah E-Commerce Website",
+        name: "Renah E-Commerce ",
         link: "https://collins-s.github.io/smd/",
         languages: ["M.E.R.N", "BOOTSTRAP"],
         img: "./images/renah.png",
