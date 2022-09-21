@@ -1,4 +1,4 @@
-import CardT from "./Components/Card";
+// import CardT from "./Components/Card";
 import Navbar from "./Components/Navbar";
 import Project from "./Components/Projects";
 
