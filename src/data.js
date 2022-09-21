@@ -9,11 +9,11 @@ const projectData = [
         source: "https://github.com/collins-s/vegan"
     },
     {
-        name: "Rock Paper Scissors Game",
-        link: "https://collins-s.github.io/vegan/",
-        languages: ["HTML", "CSS", "JS"],
-        img: "./images/img1.jpg",
-        source: "https://github.com/collins-s/tindog"
+        name: "Projects Portfolio",
+        link: "https://collins-s.github.io/projects/",
+        languages: ["React JS", "MUI"],
+        img: "./images/projects.png",
+        source: "https://github.com/collins-s/projects"
     },
     {
         name: "tindog Website",
@@ -49,7 +49,7 @@ const projectData = [
         link: "https://collins-s.github.io/smd/",
         languages: ["M.E.R.N", "BOOTSTRAP"],
         img: "./images/renah.png",
-        source: "https://github.com/collins-s/tindog"
+        source: "https://github.com/collins-s/renah"
     },
 ]
 
