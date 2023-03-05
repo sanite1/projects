@@ -24,7 +24,7 @@ const projectData = [
     },
     {
         name: "Name Generator",
-        link: "http://dry-falls-87383.herokuapp.com/",
+        link: "https://name-gen-app.netlify.app/",
         languages: ["M.E.R.N"],
         // languages: ["React", "Node", "Express", "MongoDB"],
         img: "./images/namegen.png",
@@ -32,8 +32,8 @@ const projectData = [
     },
     {
         name: "Todo List",
-        link: "https://hidden-shelf-49354.herokuapp.com/",
-        languages: ["Node", "EJS"],
+        link: "https://web-production-13d0.up.railway.app/",
+        languages: ["Express", "EJS"],
         img: "./images/todo.png",
         source: "https://github.com/collins-s/todo-list"
     },
@@ -45,12 +45,19 @@ const projectData = [
         source: "https://github.com/collins-s/smd"
     },
     {
-        name: "Renah E-Commerce ",
-        link: "https://collins-s.github.io/smd/",
-        languages: ["M.E.R.N", "BOOTSTRAP"],
-        img: "./images/renah.png",
+        name: "Smart Analysis",
+        link: "https://smart-analysis.netlify.app/",
+        languages: ["M.E.R.N", "MUI", "Express"],
+        img: "./images/sma-ana.png",
         source: "https://github.com/collins-s/renah"
     },
+    // {
+    //     name: "Renah E-Commerce ",
+    //     link: "#",
+    //     languages: ["M.E.R.N", "BOOTSTRAP"],
+    //     img: "./images/renah.png",
+    //     source: "https://github.com/collins-s/renah"
+    // },
 ]
 
 export default projectData;
